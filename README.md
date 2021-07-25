@@ -1,7 +1,7 @@
 # atmospheric-glider-sim
 Senior Design Simulation of a glider flight path 
 
-Coding done by (Garrett C., Zach M., and Jordan T.)
+Coding done by (Crypto Neutron., Zach M., and Jordan T.)
 
 This simulation is to plan out an optimal flight path of a glider that has been deployed from a high altitude weather balloon for reaching a maximum capable height above a waypoint. The motivation behind the project is to create a more sustainable and accurate atmospheric profile compared to radiosondes. The code uses values from the excel spreadsheet provided to calculate various aircraft characteristics and forces during flight. 
 
